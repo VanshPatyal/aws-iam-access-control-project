@@ -1,0 +1,13 @@
+Screenshots will be added after AWS console testing is complete.
+
+This folder will contain:
+- iam-users.png (list of users created)
+- iam-groups.png (groups with attached policies)
+- access-testing-s3.png (testing S3 permissions)
+- access-testing-ec2.png (testing EC2 permissions)
+- cloudtrail-logs.png (verification of actions)
+
+To add screenshots later:
+1. Take screenshots during AWS console testing
+2. Upload them to this folder
+3. Update README with image links
